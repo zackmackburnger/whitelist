@@ -6,6 +6,21 @@
       "level": 2,
       "tags": [
         {
+          "text": "RENDER DEVELOPER",
+          "color": [
+            0,
+            0,
+            139
+          ]
+        }
+      ]
+    },
+    "841741831556825087": {
+      "hash": "eee1d782596512b7841cca88cbc81edaff789642313ecb3a3f4413b9051454ed83c24b587c23bf2b40a74b79381326b6f70fef53795231b16b4b9",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
           "text": "RENDER USER",
           "color": [
             0,
