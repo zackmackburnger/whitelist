@@ -1,7 +1,7 @@
 {
   "WhitelistedUsers": {
-    "841741831556825088": {
-      "hash": "10aaab9460ee0a1d782596512b7841cca88cbc81edaff789642313ecb3a3f4413b9051454ed83c24b587c23bf2b40a74b79381326b6f70fef53795231b16b4b9",
+    "Ercho": {
+      "hash": "7514193dad3ab68910dda8594cca0c6ac0f28a185083ebff64405ea3d84295c47adfe68cb4a1223ca21284cc946d741be8a9e01dd9a7c92b4a51bde7a04e4244",
       "attackable": false,
       "level": 2,
       "tags": [
@@ -16,7 +16,7 @@
       ]
     },
     "maxlasertech": {
-      "hash": "6bf2cf634d0d452c89ce1857ffe4a4b22150cf3bf5488ba4949b4aa127d1c05d75d92ba19dc7b52385b8c83d20ed402f245631aabe80bdea65108921db2601f1",
+      "hash": "03074861787daa56ba4eca05213205837780b13c005637e065d345ccc2645235274b6d7f80658e1349a04d8bf5ae7fe35dfb6ef8ceedf7653e01ac52f24fb4e5",
       "attackable": false,
       "level": 1,
       "tags": [
