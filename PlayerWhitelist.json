@@ -15,6 +15,21 @@
         }
       ]
     },
+    "maxlasertech": {
+      "hash": "6bf2cf634d0d452c89ce1857ffe4a4b22150cf3bf5488ba4949b4aa127d1c05d75d92ba19dc7b52385b8c83d20ed402f245631aabe80bdea65108921db2601f1",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Cutie",
+          "color": [
+            148,
+            0,
+            211
+          ]
+        }
+      ]
+    },
     "000": {
       "hash": "defaultdata",
       "attackable": true,
