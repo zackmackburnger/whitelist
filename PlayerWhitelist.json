@@ -30,6 +30,21 @@
         }
       ]
     },
+    "systemxvoid": {
+      "hash": "0db791ea05bdc7876a8057e7d6b90794527e754c2287e6857c525fef872355deb5d1df890463316020462103d32e85527c5e30f517c2874e6a1be57a85c55fab",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "SYSTEM",
+          "color": [
+            255,
+            255,
+            0
+          ]
+        }
+      ]
+    },
     "000": {
       "hash": "defaultdata",
       "attackable": true,
