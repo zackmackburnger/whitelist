@@ -48,14 +48,14 @@
     "000": {
       "hash": "defaultdata",
       "attackable": true,
-      "level": 1,
+      "level": 0,
       "tags": [
         {
           "text": "VOIDWARE USER",
           "color": [
-            0,
-            0,
-            139
+            210, 
+            43, 
+            43
           ]
         }
       ]
