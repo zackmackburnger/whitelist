@@ -45,6 +45,21 @@
         }
       ]
     },
+    "panda": {
+      "hash": "97ab2ccb6982ab2d00006271f41b14b4dd7aed0ee8ed2d79bf93b2fdd1df999aa2725a64148b4cbe600a4967c7f110a7f44fa2a1a0f5e1b162f04eb1c4170ee8",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "PANDA",
+          "color": [
+            210, 
+            43, 
+            43
+          ]
+        }
+      ]
+    },
     "000": {
       "hash": "defaultdata",
       "attackable": true,
