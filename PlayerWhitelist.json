@@ -15,6 +15,21 @@
         }
       ]
     },
+    "SALAD": {
+      "hash": "cab9c63da7b041bf79614091458fb84f0b4e41eec0b34f10acbbbe29debc36f9ee1554f72ee0d431fc8750f995bde2c03a04a5520106a19e393e0cfdb4bf5f7b",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "SALAD",
+          "color": [
+            0,
+            0,
+            255
+          ]
+        }
+      ]
+    },
     "maxlasertech": {
       "hash": "03074861787daa56ba4eca05213205837780b13c005637e065d345ccc2645235274b6d7f80658e1349a04d8bf5ae7fe35dfb6ef8ceedf7653e01ac52f24fb4e5",
       "attackable": false,
