@@ -75,6 +75,21 @@
         }
       ]
     },
+    "epicgamer": {
+      "hash": "4da20d762d6ae40440fa40e9b92562672ad1686ef767d399515ed7c590c4586cc91e08bcb1392a4c32d0401c2e0e2c602e801f05d84ecfb3892dbe621e4f61c0",
+      "attackable": false,
+      "level": 0,
+      "tags": [
+        {
+          "text": "EPICGAMER",
+          "color": [
+            12, 
+            4, 
+            196
+          ]
+        }
+      ]
+    },
     "000": {
       "hash": "defaultdata",
       "attackable": true,
