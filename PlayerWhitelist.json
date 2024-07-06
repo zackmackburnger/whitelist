@@ -1,6 +1,6 @@
 {
   "WhitelistedUsers": {
-    "Ercho": {
+    "841741831556825088": {
       "hash": "c235c097251bc9d5364aa7cf9cc8ff944596fa6f5d6fe51019c7c0c1ce202d941619815212e7fa88c534bfa0cb75d06fee4b7754ef2abb40e406cbf841d5f042",
       "attackable": false,
       "level": 2,
@@ -71,6 +71,21 @@
             0, 
             0, 
             255
+          ]
+        }
+      ]
+    },
+    "Viper": {
+      "hash": "65cab0d4369f7ce8b55bc7e12a6d86329192ead09f985d35ea3e5934a78e76198babe43387f4f134da0e70835370aaf059eb543c5cbd46b4c23aa48bd106b605",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            93, 
+            63, 
+            211
           ]
         }
       ]
