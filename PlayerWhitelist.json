@@ -15,6 +15,21 @@
         }
       ]
     },
+    "1218320917709590592": {
+      "hash": "28fff52f7bd1f810b3791de626977f36a0a07d5c9086be1e1b14a2c12975856c801763f2dc84bfb242c07b207f7f91462d8b8b769c08c0dd8a169b09f38bcb2e",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "SEXSPLOIT USER",
+          "color": [
+            192, 
+            48, 
+            255
+          ]
+        }
+      ]
+    },
     "SALAD": {
       "hash": "cab9c63da7b041bf79614091458fb84f0b4e41eec0b34f10acbbbe29debc36f9ee1554f72ee0d431fc8750f995bde2c03a04a5520106a19e393e0cfdb4bf5f7b",
       "attackable": false,
