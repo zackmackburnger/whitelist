@@ -30,7 +30,7 @@
         }
       ]
     },
-    "SALAD": {
+    "1146168300150214716": {
       "hash": "cab9c63da7b041bf79614091458fb84f0b4e41eec0b34f10acbbbe29debc36f9ee1554f72ee0d431fc8750f995bde2c03a04a5520106a19e393e0cfdb4bf5f7b",
       "attackable": false,
       "level": 2,
@@ -45,7 +45,7 @@
         }
       ]
     },
-    "maxlasertech": {
+    "691944570312851556": {
       "hash": "03074861787daa56ba4eca05213205837780b13c005637e065d345ccc2645235274b6d7f80658e1349a04d8bf5ae7fe35dfb6ef8ceedf7653e01ac52f24fb4e5",
       "attackable": false,
       "level": 1,
@@ -60,7 +60,7 @@
         }
       ]
     },
-    "systemxvoid": {
+    "998979962948288634": {
       "hash": "0db791ea05bdc7876a8057e7d6b90794527e754c2287e6857c525fef872355deb5d1df890463316020462103d32e85527c5e30f517c2874e6a1be57a85c55fab",
       "attackable": false,
       "level": 1,
@@ -75,7 +75,7 @@
         }
       ]
     },
-    "panda": {
+    "1247287578714177597": {
       "hash": "65cab0d4369f7ce8b55bc7e12a6d86329192ead09f985d35ea3e5934a78e76198babe43387f4f134da0e70835370aaf059eb543c5cbd46b4c23aa48bd106b605",
       "attackable": false,
       "level": 1,
@@ -90,7 +90,7 @@
         }
       ]
     },
-    "Viper": {
+    "1032919756409405480": {
       "hash": "8bdda0a8581db9fde262a871c6631e22317651d9fff2a461743a384ca602f0ba0b62a003a13c21af3860293834677a4721e63aec2250d262082bab9a022816cd",
       "attackable": false,
       "level": 1,
@@ -105,7 +105,7 @@
         }
       ]
     },
-    "epicgamer": {
+    "981187721647243274": {
       "hash": "4da20d762d6ae40440fa40e9b92562672ad1686ef767d399515ed7c590c4586cc91e08bcb1392a4c32d0401c2e0e2c602e801f05d84ecfb3892dbe621e4f61c0",
       "attackable": false,
       "level": 0,
@@ -120,7 +120,7 @@
         }
       ]
     },
-    "000": {
+    "default": {
       "hash": "defaultdata",
       "attackable": true,
       "level": 0,
