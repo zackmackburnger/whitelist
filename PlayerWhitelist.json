@@ -134,21 +134,6 @@
           ]
         }
       ]
-    },
-    "851814242566275144": {
-      "hash": "test",
-      "attackable": false,
-      "level": 0,
-      "tags": [
-        {
-          "text": "VOIDWARE USER",
-          "color": [
-            210,
-            43,
-            43
-          ]
-        }
-      ]
     }
   },
   "WhitelistedTags": {},
