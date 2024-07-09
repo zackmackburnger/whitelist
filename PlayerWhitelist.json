@@ -135,21 +135,6 @@
         }
       ]
     },
-    "851814242566275144": {
-      "hash": "1019e26cee6189bd5f1d7daf44e796da90e035565b14f690e6ecd05a8dd1fae6f3b9a0d6cdc542ba98512de7a86f4740be695d6ae2345b991f2387d7b088ebc5",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "voidware > render",
-          "color": [
-            0,
-            0,
-            0
-          ]
-        }
-      ]
-    },
     "1187823462312587285": {
       "hash": "1019e26cee6189bd5f1d7daf44e796da90e035565b14f690e6ecd05a8dd1fae6f3b9a0d6cdc542ba98512de7a86f4740be695d6ae2345b991f2387d7b088ebc5",
       "attackable": false,
