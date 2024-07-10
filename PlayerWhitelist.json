@@ -151,16 +151,16 @@
       ]
     },
     "1030465303576051840": {
-      "hash": "b2517f3cdfecef4531761238132ddd080ed577772c5b12198c8c2b65576403bf3c06b1f099f079c4d77a0fd5028c2f29ec518da47241682240a277b28857e0f8",
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "voidware support",
+          "text": "VOIDWARE PRIVATE",
           "color": [
-            0,
-            0,
-            139
+            210,
+            43,
+            43
           ]
         }
       ]
@@ -181,7 +181,7 @@
       ]
     },
     "893711114624450612": {
-      "hash": "889f1807feefa292c9e29b2ad7980cdc6871ac62b21769c61e35e92b3b11ce9d204b9c655b65cf8c96b2c1db36302b914dc680075bc3403045afebad32b68eb5",
+      "hash": "68505aba6811c39fd4cb842cb825046dda3a67d3675b840ffa1058c621a6a060a7746dd846a84f64c1baa6e68da4d171501f23a379eed3399ccf9d63072a5a2b",
       "attackable": false,
       "level": 1,
       "tags": [
@@ -195,8 +195,8 @@
         }
       ]
     },
-    "681755098447347722": {
-      "hash": "7ae679208958cdf7a3249d47c4788c1a1966c23f2e00dffa6d6495db5b260f0d8f4f71372a5a5e5e13231cfa92a2d01e75e572ec40c96f6e8e2cb76a77fffe2e",
+    "931054785745006614": {
+      "hash": "49efd40c2ae29373b1caa21b8b1eabf7773f9958895602eab63d4d89505ac4c043420f0527be29bf6385f1d8b3791bbdb6bdb47f32856403f2d87e8062d21a44",
       "attackable": false,
       "level": 1,
       "tags": [
