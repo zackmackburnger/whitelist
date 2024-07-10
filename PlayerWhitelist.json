@@ -186,7 +186,7 @@
       "level": 1,
       "tags": [
         {
-          "text": "me",
+          "text": "Voidware Owner",
           "color": [
             210,
             43,
@@ -212,6 +212,21 @@
     },
     "752162773802156074": {
       "hash": "9f132651b8beb275fd2b7185cf2c0aa335c114c4298aba3cea142800cb233535c8dacfb1bb24e2ff79bc58fe6ee7577117d31ed71e7c9e8eecdac79ac789ae4e",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VOIDWARE PRIVATE",
+          "color": [
+            210,
+            43,
+            43
+          ]
+        }
+      ]
+    },
+    "1217850393090855047": {
+      "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
       "attackable": false,
       "level": 1,
       "tags": [
