@@ -156,7 +156,7 @@
       "level": 1,
       "tags": [
         {
-          "text": "voidwarehelper",
+          "text": "voidware-helper",
           "color": [
             0,
             0,
@@ -287,21 +287,6 @@
     },
     "905662622555340851": {
       "hash": "0fa3430594f6a33578362c2b911d77c3b725dcbf8315121e2ef6df77ad935baad2fec8b50e2b356e762c2c871617cb68ca180e892f9d47a428061ba4847c18ef",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VOIDWARE PRIVATE",
-          "color": [
-            210,
-            43,
-            43
-          ]
-        }
-      ]
-    },
-    "1216774052832612472": {
-      "hash": "c6981ced1689fe601bac3fdf4b73b8df75c2d2e23527654571af3f47c6685ccf9a4ccf91e3d1fb342e5b2a410a3177fe3582cd23a03f8aef9a42d7861cfbf750",
       "attackable": false,
       "level": 1,
       "tags": [
