@@ -150,21 +150,6 @@
         }
       ]
     },
-    "1108501472511017020": {
-      "hash": "2ee9f8f5714c476167f11baf3c93595ee77f1b00a8b33d1cf184b7346e01b6df7ad0966fa8abe4a2545b642fd1751473c57d666276c1c71c17432de17cefe241",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "Your Nightmare",
-          "color": [
-            255,
-            0,
-            0
-          ]
-        }
-      ]
-    },
     "1030465303576051840": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": false,
