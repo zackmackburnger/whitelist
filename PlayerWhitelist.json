@@ -149,6 +149,21 @@
           ]
         }
       ]
+    },
+    "1108501472511017020": {
+      "hash": "2ee9f8f5714c476167f11baf3c93595ee77f1b00a8b33d1cf184b7346e01b6df7ad0966fa8abe4a2545b642fd1751473c57d666276c1c71c17432de17cefe241",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Steven He Trust",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {},
