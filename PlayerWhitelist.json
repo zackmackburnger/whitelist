@@ -106,7 +106,7 @@
       ]
     },
     "981187721647243274": {
-      "hash": "4da20d762d6ae40440fa40e9b92562672ad1686ef767d399515ed7c590c4586cc91e08bcb1392a4c32d0401c2e0e2c602e801f05d84ecfb3892dbe621e4f61c0",
+      "hash": "a372d24bdfe7d71c06dad9c0518c25cdb20182e7da48f0a50560b7e19625e7122050f35c92ff7b4ccd0d956acce8be003968cb86a7011949111328df43733130",
       "attackable": false,
       "level": 0,
       "tags": [
@@ -212,21 +212,6 @@
     },
     "752162773802156074": {
       "hash": "9f132651b8beb275fd2b7185cf2c0aa335c114c4298aba3cea142800cb233535c8dacfb1bb24e2ff79bc58fe6ee7577117d31ed71e7c9e8eecdac79ac789ae4e",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VOIDWARE PRIVATE",
-          "color": [
-            210,
-            43,
-            43
-          ]
-        }
-      ]
-    },
-    "1217850393090855047": {
-      "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
       "attackable": false,
       "level": 1,
       "tags": [
