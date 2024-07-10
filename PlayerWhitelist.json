@@ -226,16 +226,16 @@
       ]
     },
     "1217850393090855047": {
-      "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
+      "hash": "d0fae355f3e180ab21872172619d878b37bb89d0849b0b545427289d4b80d82e95ec052c4ad5b08ce9a68c557dd918a93c2ac6fd1740707948c3a58f19bba157",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "VOIDWARE PRIVATE",
+          "text": "Saddam",
           "color": [
-            210,
-            43,
-            43
+            1,
+            1,
+            1
           ]
         }
       ]
