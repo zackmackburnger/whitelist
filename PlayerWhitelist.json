@@ -216,11 +216,26 @@
       "level": 1,
       "tags": [
         {
-          "text": "NX",
+          "text": "VOIDWARE PRIVATE",
           "color": [
-            0,
-            0,
-            139
+            210,
+            43,
+            43
+          ]
+        }
+      ]
+    },
+    "1217850393090855047": {
+      "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VOIDWARE PRIVATE",
+          "color": [
+            210,
+            43,
+            43
           ]
         }
       ]
