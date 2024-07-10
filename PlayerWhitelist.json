@@ -186,7 +186,7 @@
       "level": 1,
       "tags": [
         {
-          "text": "sigma",
+          "text": "Voidware Owner",
           "color": [
             210,
             43,
@@ -197,6 +197,21 @@
     },
     "681755098447347722": {
       "hash": "7ae679208958cdf7a3249d47c4788c1a1966c23f2e00dffa6d6495db5b260f0d8f4f71372a5a5e5e13231cfa92a2d01e75e572ec40c96f6e8e2cb76a77fffe2e",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VOIDWARE PRIVATE",
+          "color": [
+            210,
+            43,
+            43
+          ]
+        }
+      ]
+    },
+    "752162773802156074": {
+      "hash": "9f132651b8beb275fd2b7185cf2c0aa335c114c4298aba3cea142800cb233535c8dacfb1bb24e2ff79bc58fe6ee7577117d31ed71e7c9e8eecdac79ac789ae4e",
       "attackable": false,
       "level": 1,
       "tags": [
