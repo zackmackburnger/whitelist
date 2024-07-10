@@ -83,9 +83,9 @@
         {
           "text": "VOIDWARE PRIVATE USER",
           "color": [
-            31,
-            81,
-            255
+            25,
+            25,
+            112
           ]
         }
       ]
@@ -152,6 +152,21 @@
     },
     "1030465303576051840": {
       "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VOIDWARE PRIVATE",
+          "color": [
+            210,
+            43,
+            43
+          ]
+        }
+      ]
+    },
+    "880304650769813515": {
+      "hash": "b1767d24bbfde962e92d0b19c6e802215f006a8904403f7971f055178534e9cac389920b31791b2ad9c823eaff7325ab6e86cef43c771d479018e273f6d26941",
       "attackable": false,
       "level": 1,
       "tags": [
