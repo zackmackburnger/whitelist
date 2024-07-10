@@ -111,7 +111,7 @@
       "level": 0,
       "tags": [
         {
-          "text": "epicgamer",
+          "text": "epicgamer9995837",
           "color": [
             12,
             4,
@@ -151,16 +151,16 @@
       ]
     },
     "1030465303576051840": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "hash": "b2517f3cdfecef4531761238132ddd080ed577772c5b12198c8c2b65576403bf3c06b1f099f079c4d77a0fd5028c2f29ec518da47241682240a277b28857e0f8",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "VOIDWARE PRIVATE",
+          "text": "voidwarehelper",
           "color": [
-            210,
-            43,
-            43
+            0,
+            0,
+            139
           ]
         }
       ]
@@ -227,21 +227,6 @@
     },
     "1217850393090855047": {
       "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "VOIDWARE PRIVATE",
-          "color": [
-            210,
-            43,
-            43
-          ]
-        }
-      ]
-    },
-    "931054785745006614": {
-      "hash": "49efd40c2ae29373b1caa21b8b1eabf7773f9958895602eab63d4d89505ac4c043420f0527be29bf6385f1d8b3791bbdb6bdb47f32856403f2d87e8062d21a44",
       "attackable": false,
       "level": 1,
       "tags": [
