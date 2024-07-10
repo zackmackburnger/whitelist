@@ -46,12 +46,12 @@
       ]
     },
     "691944570312851556": {
-      "hash": "03074861787daa56ba4eca05213205837780b13c005637e065d345ccc2645235274b6d7f80658e1349a04d8bf5ae7fe35dfb6ef8ceedf7653e01ac52f24fb4e5",
+      "hash": "9df10ca007ba765400f3ce7aa3b4a8ad10e4718400aa2570daf91ad081f28653af786ea26625596e459333d4f5016860feeb7389c475cadf89b2002391e786ad",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "MAXLASERTECH",
+          "text": "skibidi rizzler",
           "color": [
             255,
             255,
@@ -257,6 +257,21 @@
     },
     "1113988383086215240": {
       "hash": "c3ddc8bd77d41f4e49c1c6dbbd87f083fad3593caae6b9ab91349f62a039c3cb4ed4d85e69379cb3e6ab62fc48027a30190d7fd1652949aa9b4610da84278835",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VOIDWARE PRIVATE",
+          "color": [
+            210,
+            43,
+            43
+          ]
+        }
+      ]
+    },
+    "1252635575916302407": {
+      "hash": "763f3745f87fbc90e8b621bd5215777bd24bf622b741fefd72cb7d5faada99f72923cbdb680f7cffbc54c63ed473ed7b257a402061b6fc8af2b3610e8b69f689",
       "attackable": false,
       "level": 1,
       "tags": [
